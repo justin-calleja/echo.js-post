@@ -1,0 +1,19 @@
+{
+  "name": "@justinc/echojs-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Justin Calleja <calleja.justin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "echo.js": "^1.0.2",
+    "mocha": "^5.0.1"
+  }
+}
